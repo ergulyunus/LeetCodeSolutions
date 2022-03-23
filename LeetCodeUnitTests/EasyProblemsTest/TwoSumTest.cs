@@ -11,9 +11,9 @@ namespace LeetCodeUnitTests
         // target: 6 result = [1,2]
         public void TwoSum_With_Correct_Request_Parameter_Then_OK_Test(int[] req)
         {
-           var result = TwoSum_1.Solution(req, 6);
-           Assert.True(result[0] == 1);
-           Assert.True(result[1] == 2);
+            var result = TwoSum_1.Solution(req, 6);
+            Assert.True(result[0] == 1);
+            Assert.True(result[1] == 2);
         }
     }
 }

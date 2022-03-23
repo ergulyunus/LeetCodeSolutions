@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace LeetCode.ProblemSolutions
+﻿namespace LeetCode.ProblemSolutions
 {
     public static class TwoSum_1
     {
