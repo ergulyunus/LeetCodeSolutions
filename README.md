@@ -14,10 +14,17 @@ Status: Accepted
 Runtime: 199 ms
 Memory Usage: 42.4 MB
 -----------------------------
-2.IsPalindrome Solution added.
+9.IsPalindrome Solution added.
 11510 / 11510 test cases passed.
 Status: Accepted
 Runtime: 48 ms
 Memory Usage: 28.2 MB
 -----------------------------
+13.Roman to Integer Solution added.
+3999 / 3999 test cases passed.
+Status: Accepted
+Runtime: 80 ms
+Memory Usage: 40 MB
+-----------------------------
+
 

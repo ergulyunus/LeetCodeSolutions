@@ -1,7 +1,7 @@
 using LeetCode.ProblemSolutions.EasyProblems;
 using Xunit;
 
-namespace LeetCodeUnitTests
+namespace LeetCodeUnitTests.EasyProblemsTest
 {
     public class IsPalindromeTest
     {

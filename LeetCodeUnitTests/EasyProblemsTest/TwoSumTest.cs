@@ -2,7 +2,7 @@ using LeetCode.ProblemSolutions;
 using LeetCodeUnitTests.Helper;
 using Xunit;
 
-namespace LeetCodeUnitTests
+namespace LeetCodeUnitTests.EasyProblemsTest
 {
     public class TwoSumTest
     {
