@@ -26,5 +26,17 @@ Status: Accepted
 Runtime: 80 ms
 Memory Usage: 40 MB
 -----------------------------
+14.Longest Common Prefix Solution added.
+123 / 123 test cases passed.
+Status: Accepted
+Runtime: 143 ms
+Memory Usage: 38.2 MB
+-----------------------------
+20.Valid Parentheses Solution added.
+91 / 91 test cases passed.
+Status: Accepted
+Runtime: 104 ms
+Memory Usage: 50.5 MB
+-----------------------------
 
 
