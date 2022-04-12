@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace LeetCode.ProblemSolutions.EasyProblems
+﻿namespace LeetCode.ProblemSolutions.EasyProblems
 {
     public static class LongestCommonPrefix_14
     {

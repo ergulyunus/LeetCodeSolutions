@@ -1,7 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.Linq;
-using System.Text;
 
 namespace LeetCode.ProblemSolutions.EasyProblems
 {
@@ -27,9 +25,9 @@ namespace LeetCode.ProblemSolutions.EasyProblems
             for (int i = 1; i < s.Length; i++)
             {
                 total += romans.First(kvp => kvp.Key == s[i]).Value; ;
-                if (romans.First(kvp => kvp.Key == s[i-1]).Value < romans.First(kvp => kvp.Key == s[i]).Value)
+                if (romans.First(kvp => kvp.Key == s[i - 1]).Value < romans.First(kvp => kvp.Key == s[i]).Value)
                 {
-                    total -= (romans.First(kvp => kvp.Key == s[i-1]).Value * 2);
+                    total -= (romans.First(kvp => kvp.Key == s[i - 1]).Value * 2);
                 }
             }
 
